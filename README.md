@@ -12,8 +12,9 @@ In August 2023, the island suffered and by the time this is being written is sti
 Through this notebook the burned areas are going to be identified for October 7th 2023 and comparing it with a prefire state of the island and observe side to side the effects of the wildfires in the area.
 
 ### Data
-Sentinel 2 images acquired from the Open Acces Hub of Copernicus
-The shapefile used for the analysis was digitilized in Qgis
+* Sentinel 2 images acquired from the Open Acces Hub of Copernicus
+
+* The shapefile used for the analysis was digitilized in Qgis
 
 ![tenerife](https://github.com/angiest1711/Spatial-Python---Tenerife-Wildfires/assets/119541571/64d11aec-a422-42ee-b842-d9da31969bee)
 ![Screenshot 2023-10-15 191340](https://github.com/angiest1711/Spatial-Python---Tenerife-Wildfires/assets/119541571/d53590bf-818f-4d30-ace7-853a5223341e)
